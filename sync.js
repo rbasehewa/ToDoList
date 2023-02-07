@@ -1,10 +1,10 @@
 // sync code
-console.log("start");
+// console.log("start");
 
-function sayHello(){
-    console.log("Hi, Im Ryan");
-}
+// function sayHello(){
+//     console.log("Hi, Im Ryan");
+// }
 
-sayHello();
+// sayHello();
 
-console.log("end");
+// console.log("end");

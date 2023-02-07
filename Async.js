@@ -25,18 +25,18 @@
 // PROMISE - IT IS OBJECT AND TWO VALUES -> IF async is true we have result ELSE if async is fail false
 
 
-const promise = new Promise((resolve,reject)=>{
-    setTimeout(()=>{
-        console.log("data receiving");
-        // resolve({data: "John"})
-        reject("this is error message");
-    }, 5000);
-});
+// const promise = new Promise((resolve,reject)=>{
+//     setTimeout(()=>{
+//         console.log("data receiving");
+//         // resolve({data: "John"})
+//         reject("this is error message");
+//     }, 5000);
+// });
 
-promise.then(result=>{
-    console.log(result);
-}).catch(error =>{
-    console.log(error)
-})
+// promise.then(result=>{
+//     console.log(result);
+// }).catch(error =>{
+//     console.log(error)
+// })
 
 

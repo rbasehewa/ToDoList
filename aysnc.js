@@ -1,8 +1,8 @@
 // Async code
-console.log("start");
+// console.log("start");
 
-setTimeout(() =>{
-    console.log("this is done");
-},4000);
+// setTimeout(() =>{
+//     console.log("this is done");
+// },4000);
 
-console.log("end");
+// console.log("end");
